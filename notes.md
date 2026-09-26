@@ -1,4 +1,4 @@
-# notes.md: Ganga water-quality dataset and dashboard
+# Ganga water-quality dataset and dashboard
 
 ## Plan (decided before data work)
 - Question: where along the Ganga, and when, does the water fail India's bathing standard, and how much does the answer depend on which number is reported?
